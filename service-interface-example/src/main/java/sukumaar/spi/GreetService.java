@@ -1,4 +1,4 @@
-package sukumaar;
+package sukumaar.spi;
 
 public interface GreetService {
     abstract public String greet(String msg);

@@ -1,10 +1,13 @@
-package sukumaar;
+package sukumaar.client;
+
+import sukumaar.spi.GreetService;
 
 import java.util.ServiceLoader;
 
 
 /**
  * @author sukumaar
+ * @author ebuzer
  */
 public class ServiceLoaderExample {
     public static void main(String[] args) {

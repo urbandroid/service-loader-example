@@ -1,4 +1,6 @@
-package sukumaar;
+package sukumaar.earth;
+
+import sukumaar.spi.GreetService;
 
 /**
  * @author sukumaar

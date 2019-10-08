@@ -1,4 +1,6 @@
-package sukumaar;
+package sukumaar.asgard;
+
+import sukumaar.spi.GreetService;
 
 /**
  * @author sukumaar
