@@ -8,7 +8,8 @@ import sukumaar.client.ServiceLoaderExample;
  */
 public class GreetServiceLoaderExampleRun {
     /**
-     * Rigorous Test :-)
+     * TODO: This tests still passes even though expected results not returns.
+     * for example "No1 is actually greeting" makes it pass.
      */
     @Test
     public void asgardThorGreeting() {
